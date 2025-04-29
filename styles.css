@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Outfit', sans-serif; /* Assure-toi d'importer cette police */
+    font-family: 'Outfit', sans-serif; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,11 +19,11 @@ body {
     padding: 2rem;
     text-align: center;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-    width: 300px; /* Ajuste selon le design */
+    width: 300px; 
 }
 
 .qr-code img {
-    width: 100%; /* Rendre l'image responsive */
+    width: 100%; 
     border-radius: 10px;
 }
 
